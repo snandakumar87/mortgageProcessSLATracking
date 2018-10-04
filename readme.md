@@ -19,11 +19,9 @@ https://github.com/snandakumar87/slatracking/tree/master/process-event-listener
 
 
 2)Let us create a escalation handling process under the mortgage project, where we have a simple email task to handle the escalation flow.
-
 Configure the email params,
 
 Once the handling process has been created, we now have to register the EmailWorkItemHandler and register the listener we created to the mortgage project in business central.
-
 
 3) Open up the settings tab -> Artifcats
 Upload the jar file of the custom listener which we had created in step1. 
