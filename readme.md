@@ -34,7 +34,7 @@ Next navigate to settings tab -> Artifcats -> Deployments -> Event Listener and 
 
 Next for sending the email notification, we have to create an email workitemhandler.
 
-Once all the configuration is done, deploy the process. When the instance is started, and after 2s have elapsed, you can see that email has been sent. Please refer to https://docs.google.com/document/d/1QrFPLEm-cW-oeM0B7sqNF361m9aLue8pzHkxCAcNLeI/edit?usp=sharing
+Once all the configuration is done, deploy the process. When the instance is started, and after 2s have elapsed, you can see that email has been sent. 
 
 Similarly any custom logic can be implemented to handle the SLA violation.
 
