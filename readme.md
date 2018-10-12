@@ -23,6 +23,8 @@ Configure the email params,
 
 Once the handling process has been created, we now have to register the EmailWorkItemHandler and register the listener we created to the mortgage project in business central.
 
+Make sure to add the From and To email address on the Email Service Task and ensure Email Config is done. Refer to http://planet.jboss.org/post/email_configuration_for_jbpm
+
 3) Open up the settings tab -> Artifcats
 Upload the jar file of the custom listener which we had created in step1. 
 Open up the mortgage project -> Settings -> Dependencies -> Add from repository
